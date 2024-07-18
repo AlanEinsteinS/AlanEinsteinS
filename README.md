@@ -2,8 +2,7 @@
 <p align="center">a starter in this little tech world <br><br> A student who likes learn and practice.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats1-sable.vercel.app/api?username=AlanEinsteinS)](https://github.com/AlanEinsteinS/github-readme-stats1)"/>
+<img width=40% align="center" src="github-readme-stats-ten-gold-19.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
