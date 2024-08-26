@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<img src="https://cdn.discordapp.com/attachments/720826976163594280/1263334239189991505/image.png?ex=6699db32&is=669889b2&hm=d806f25b7635fa396d860e9a6d92a20e6d20c8f8716cad6e9102cb478e2a0467&" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://cdn.discordapp.com/attachments/720826976163594280/1263334239189991505/image.png?ex=66cd45b2&is=66cbf432&hm=e0c25bf98346bd90dc65a20343a6585744e5339902d6b29bcb933cd19f1fb561&" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
