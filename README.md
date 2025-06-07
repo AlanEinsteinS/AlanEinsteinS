@@ -1,15 +1,9 @@
 
 <p align="center">a starter in this little tech world <br><br> A student who likes learn and practice.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-git-main-alaneinsteinss-projects.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
  
  &nbsp;
  &nbsp;
-
-
-
+ 
 ## What i do:
 
 #### Main Stack:
