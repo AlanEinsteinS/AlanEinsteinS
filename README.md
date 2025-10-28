@@ -1,5 +1,5 @@
 
-<p align="center">a starter in this tech world <br><br> A student who likes learn and practice.</p>&nbsp;
+<p align="center">a starter in this tech world <br> A student who likes learn and practice.</p>&nbsp;
  
  &nbsp;
  &nbsp;
