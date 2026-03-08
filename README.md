@@ -1,5 +1,5 @@
 
-<p align="center">a starter in this tech world <br> A student who likes learn and practice.</p>&nbsp;
+<p align="center">the best fullstack developer in this tech world.</p>&nbsp;
  
  &nbsp;
  &nbsp;
@@ -40,14 +40,14 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/alanzaozao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/alanzaozao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </a>
 </a>
-<a href = "mailto:alaneinstein245@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:alaneinstein245@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </a>
 </a>
-<a href = "https://www.linkedin.com/in/alan-einstein/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alan-einstein/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
